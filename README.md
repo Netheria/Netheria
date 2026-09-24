@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 **I am a Performance Test Engineer focused on Performance Engineering and Performance QA.**
 
-I work on performance testing beyond simply generating load — from realistic workloads and stateful workflows to distributed execution, observability, performance analysis, capacity, and automation.
+I work on performance testing beyond simply generating load - from realistic workloads and stateful workflows to distributed execution, observability, performance analysis, capacity, and automation.
 
 In short: **I design and build performance-testing frameworks rather than one-off load scenarios.**
 
-**Testing:** Load · Stress · Capacity · Scalability · Stability · Regression
+**Testing:** Load · Stress · Spike · Capacity · Scalability · Stability · Regression
 
-**Stack:** k6 · JMeter · Java/Groovy · JavaScript · SQL · NoSQL · PostgreSQL · Redis · Kubernetes · Docker · Prometheus · Grafana/Chronograf · InfluxDB · CI/CD
+**Stack:** k6 · JMeter · Java/Groovy · JavaScript · SQL · NoSQL · PostgreSQL · Redis · Kubernetes · Docker · Prometheus · Grafana/Chronograf · InfluxDB · APM · New Relic · CI/CD
